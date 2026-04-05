@@ -11,8 +11,6 @@ This project is a **Smart Job Recommendation System** built using **Python, Pand
 It helps users find the most relevant jobs based on their **skills, experience, location, and preferences**.
 The system ranks jobs using a scoring mechanism and displays results through an **interactive dashboard**.
 
-👉 Such systems are widely used in real-world platforms to match users with suitable jobs using data-driven approaches ([Medium][1])
-
 ---
 
 ## ✨ Features
